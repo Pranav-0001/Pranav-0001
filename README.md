@@ -1,4 +1,4 @@
-# 💫 Hey Pranav here❤️
+# Hey Pranav here ❤️
 I'm a Full stack developer<br>Domain: MERN <br>I'm a self learner<br>
 
 
