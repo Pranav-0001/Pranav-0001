@@ -1,4 +1,4 @@
-# 💫 Hey ! It's Me Pranav:
+# 💫 Hey ! It's Me Pranav
 🧑🏻‍💻 Passionate web developer<br>⚒️ Learning and exploring web<br>💻 MERN Developer
 
 
